@@ -1,0 +1,23 @@
+---
+
+Name: Kubernetes on Azure
+
+Area: Kubernetes Workshop
+
+ID: 6010
+
+Sources:
+    - External_URLs:
+        - https://azure.com/
+
+Documents:
+    - Presentation: modul_azure_6010_01_slides.html
+
+Duration: 1h
+
+Description: >
+    This workshop will provide you with an overview of the Kubernetes based
+    services available on Azure.
+
+Requirements:
+    - Kubernetes Basics
