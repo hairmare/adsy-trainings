@@ -65,8 +65,8 @@ Azure PaaS offerings
 
 ### Cloud Native Databases on Azure
 
-* Basic NoSQL databases like **TODO**
-* Relational databases
+* Basic NoSQL databases like CosmosDB that offer Cassandra-/MongoDB-as-a-Service
+* Relational databases (MS SQL, PostgreSQL, MySQL)
 
 These are usually built using the same Kubernetes Technology used by other
 offerings.
@@ -75,8 +75,8 @@ offerings.
 
 * Allow you to use the Azure API to deploy you container workloads.
 * Additional Abstraction layer between your Deploy and Kubernetes
-* **TODO** virtual-kubelet
 * *Almost* Serverless
+* Can be tied into an AKS Cluster by way of a virtual-kubelet or the Open Service Broker for Azure
 
 ---
 
@@ -102,9 +102,7 @@ offerings.
 
 ### Y U NO SuSE CaaS Platform
 
-* Contact your SuSe TAM and your Microsoft Customer Satisfaction Engineer
-
-**TODO** Fix naming of Customer Engineer?
+* Contact your SuSe TAM and your Microsoft Account Manager
 
 ---
 
