@@ -100,9 +100,10 @@ offerings.
 * For fans of a fully managed Stack from RedHat
 * Uses the same tooling also used by ACS/AKS
 
-### Y U NO SuSE CaaS Platform
+### Y U NO SuSE CAP
 
-* Contact your SuSe TAM and your Microsoft Account Manager
+* Fastest way to CloudFoundry PaaS on AKS
+* Contact your SuSe TAM and/or your Microsoft Account Manager
 
 ---
 
